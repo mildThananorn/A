@@ -1,28 +1,5 @@
 # Transforming ER Diagram to Relational Model
 
-## Objectives
-- Transform the given Entity Relationship Diagram to a relational model step by step
-
-## Instructions
-1. From the given ER diagram, use 8-step transformation to create a relational model.
-   Note: you must show the step-by-step transformation
-2. Submit by the end of the class
-
-Given the following ER diagram, use 8-step transformation to create a relational model, including:
-
-1. Transform regular entities including simple and composite attributes
-2. Transform weak entities
-3. Transform binary 1:1 relationship
-4. Transform binary 1:M relationship
-5. Transform binary M:N relationship
-6. Transform multivalued attributes
-7. Transform N-ary relationship
-8. Transform specialization or generalization
-
-***Note***: If some steps are not applicable, i.e., no such entities, attributes, or relationships in the ERD, please specify "**Not applicable**"
-
-## Step-by-Step Transformation
-
 ### 1. Transform regular entities including simple and composite attributes
 
 ```mermaid
